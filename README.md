@@ -1,3 +1,5 @@
+signed my name on the first line of the readme like Dennis said -Lam
+
 # 1.15.2-MC-Modpack
 
 ## How to use:
